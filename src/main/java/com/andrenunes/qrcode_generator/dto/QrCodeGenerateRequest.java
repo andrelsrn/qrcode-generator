@@ -1,0 +1,4 @@
+package com.andrenunes.qrcode_generator.dto;
+
+public record QrCodeGenerateRequest(String text) {
+}
